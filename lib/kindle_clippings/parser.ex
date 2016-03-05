@@ -4,10 +4,11 @@ defmodule KindleClippings.Parser do
       |> String.split("\n")
       |> Enum.map(fn x -> String.replace(x, "\r", "") end)
       |> parse([])
+      |> Enum.reverse
   end
 
-  defp parse([], parsed), do: Enum.reverse(parsed)
-  defp parse([""], parsed), do: Enum.reverse(parsed) # trailing empty line
+  defp parse([], parsed), do: parsed
+  defp parse([""], parsed), do: parsed # trailing empty line must not be parsed
   defp parse(content_lines, parsed) do
     [book|tail] = content_lines
     [note|tail] = tail
