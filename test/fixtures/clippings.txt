@@ -1,0 +1,1280 @@
+﻿Kindle User's Guide, 2nd Ed. (Amazon)
+- Note Loc. 159  | Added on Tuesday, May 24, 2011, 06:15 PM
+
+fuck you!
+==========
+Nineteen Eighty-Four (George Orwell)
+- Highlight Loc. 404-5  | Added on Tuesday, May 24, 2011, 06:35 PM
+
+WAR IS PEACE FREEDOM IS SLAVERY IGNORANCE IS STRENGTH.
+==========
+Nineteen Eighty-Four (George Orwell)
+- Highlight Loc. 485  | Added on Friday, June 10, 2011, 09:58 PM
+
+Department.
+==========
+Metaprogramming Ruby (Dominik Liebler) (Perrotta)
+- Highlight Loc. 1178  | Added on Monday, June 13, 2011, 09:20 AM
+
+Generating Methods Dynamically
+==========
+Metaprogramming Ruby (Dominik Liebler) (Perrotta)
+- Note Loc. 1178  | Added on Monday, June 13, 2011, 09:20 AM
+
+create methods dynamically
+==========
+Metaprogramming Ruby (Dominik Liebler) (Perrotta)
+- Highlight Loc. 1030  | Added on Monday, June 13, 2011, 09:23 AM
+
+Calling Methods Dynamically
+==========
+Metaprogramming Ruby (Dominik Liebler) (Perrotta)
+- Highlight Loc. 1267-68  | Added on Monday, June 13, 2011, 09:41 AM
+
+Overriding method_missing()
+==========
+Programming Erlang (Dominik Liebler) (Armstrong)
+- Highlight Loc. 1564-73  | Added on Thursday, October 06, 2011, 10:55 PM
+
+try my_func(X) catch   throw:{thisError, X} -> ...   throw:{someOtherError, X} -> ... end And the code that detects the errors should have matching throws: my_func(X) ->     case ... of        ...        ... ->               ... throw({thisError, ...})        ... ->               ... throw({someOtherError, ...})
+==========
+Programming Erlang (Dominik Liebler) (Armstrong)
+- Note Loc. 1572  | Added on Thursday, October 06, 2011, 10:55 PM
+
+error handling
+==========
+Programming Erlang (Dominik Liebler) (Armstrong)
+- Note Loc. 1797  | Added on Sunday, October 09, 2011, 09:55 AM
+
+nachvollziehen
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Note Loc. 231  | Added on Friday, January 06, 2012, 06:12 PM
+
+in our team?
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 336  | Added on Friday, January 06, 2012, 06:26 PM
+
+"You don't have to be great to get started, but you have to get started to be great."
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Note Loc. 336  | Added on Friday, January 06, 2012, 06:26 PM
+
+great!
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 363-64  | Added on Friday, January 06, 2012, 06:30 PM
+
+Design (and life, for that matter) is full of compromises. A winning team is the one that realizes this fact.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Bookmark Loc. 418  | Added on Friday, January 06, 2012, 10:46 PM
+
+
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Note Loc. 417  | Added on Friday, January 06, 2012, 10:47 PM
+
+.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 446-47  | Added on Friday, January 06, 2012, 10:50 PM
+
+Who's going to help you keep up with the pace? Well, in the corporate world, only one person will look out for your interests—you. It's up to you to keep up with change.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Note Loc. 540  | Added on Friday, January 06, 2012, 11:03 PM
+
+.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Note Loc. 685  | Added on Saturday, January 07, 2012, 05:18 PM
+
+.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 812-13  | Added on Saturday, January 07, 2012, 05:33 PM
+
+"There's no sense being exact about something if you don't even know what you're talking about."—John von Neumann
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 850  | Added on Saturday, January 07, 2012, 05:37 PM
+
+Blindly picking a framework is like having kids to save taxes
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 853  | Added on Saturday, January 07, 2012, 05:38 PM
+
+"Résumé Driven Design,"
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 879-80  | Added on Saturday, January 07, 2012, 05:42 PM
+
+"object-relational mapping is the Vietnam of computer science."
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Note Loc. 883  | Added on Saturday, January 07, 2012, 05:42 PM
+
+.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Note Loc. 937  | Added on Saturday, January 07, 2012, 09:40 PM
+
+.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 1086-88  | Added on Saturday, January 07, 2012, 11:17 PM
+
+To avoid these sorts of issues, keep a project glossary. It should be publicly accessible, perhaps on an intranet website or Wiki. It almost sounds trivial—it's just a list of terms and their definitions. But it helps to make sure you are actually communicating with the users.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 1143-44  | Added on Saturday, January 07, 2012, 11:25 PM
+
+Even NASA used iterative and incremental development to create the complex software for its space shuttle
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 1168-69  | Added on Saturday, January 07, 2012, 11:29 PM
+
+The solution was to use a four-week iteration separated by one week of maintenance work and then begin the next iteration. There's no rule that iterations have to be back to back.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Note Loc. 1433  | Added on Sunday, January 08, 2012, 10:57 PM
+
+.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Note Loc. 1476  | Added on Sunday, January 08, 2012, 11:02 PM
+
+.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 1536-37  | Added on Monday, January 09, 2012, 05:23 PM
+
+(unless you're a politician, true and false are boolean conditions).
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 1690-91  | Added on Tuesday, January 10, 2012, 12:25 PM
+
+Instead of being too clever and opaque, follow the PIE principle: Program Intently and Expressively
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 1987  | Added on Wednesday, January 11, 2012, 11:04 PM
+
+That is, a user of your library should have a need for the entire library and not only a part of it.
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 1989  | Added on Wednesday, January 11, 2012, 11:04 PM
+
+The bigger the package, the less reusable it is.
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 317-18  | Added on Thursday, January 12, 2012, 11:56 PM
+
+Working more doesn’t mean you care more or get more done. It just means you work more.
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 325-26  | Added on Thursday, January 12, 2012, 11:57 PM
+
+Workaholics make the people who don’t stay late feel inadequate for “merely” working reasonable hours.
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 357-58  | Added on Friday, January 13, 2012, 12:14 PM
+
+Don’t sit around and wait for someone else to make the change you want to see. And don’t think it takes a huge team to make that difference either.
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 413-19  | Added on Friday, January 13, 2012, 12:21 PM
+
+The most common excuse people give: “There’s not enough time.” They claim they’d love to start a company, learn an instrument, market an invention, write a book, or whatever, but there just aren’t enough hours in the day. Come on. There’s always enough time if you spend it right. And don’t think you have to quit your day job, either. Hang onto it and start work on your project at night. Instead of watching TV or playing World of War-craft, work on your idea.
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 573-75  | Added on Friday, January 13, 2012, 06:22 PM
+
+You build your business, sell it, and get a nice payday. Then what? Move to an island and sip piña coladas all day? Will that really satisfy you? Will money alone truly make you happy? Are you sure you’ll like that more than running a business you actually enjoy and believe in?
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 890  | Added on Saturday, January 14, 2012, 12:12 PM
+
+Is what you’re doing really worth it?
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 980-82  | Added on Saturday, January 14, 2012, 03:09 PM
+
+When good enough gets the job done, go for it. It’s way better than wasting resources or, even worse, doing nothing because you can’t afford the complex solution. And remember, you can usually turn good enough into great later.
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 1061  | Added on Sunday, January 15, 2012, 12:04 AM
+
+guesstimating
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 1214  | Added on Sunday, January 15, 2012, 12:20 AM
+
+When you spend time worrying about someone else, you can’t spend that time improving yourself.
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 1292-93  | Added on Sunday, January 15, 2012, 12:28 AM
+
+By all means, have as many great ideas as you can. Get excited about them. Just don’t act in the heat of the moment. Write them down and park them for a few days. Then, evaluate their actual priority with a calm mind.
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 1396-97  | Added on Sunday, January 15, 2012, 11:31 AM
+
+What’s your “cookbook”? What can you tell the world about how you operate that’s informative, educational, and promotional? This book is our cookbook. What’s yours?
+==========
+ReWork (Jason Fried and David Heinemeier Hansson)
+- Highlight Loc. 1422-24  | Added on Sunday, January 15, 2012, 11:34 AM
+
+Wabi-sabi values character and uniqueness over a shiny facade. It teaches that cracks and scratches in things should be embraced. It’s also about simplicity. You strip things down and then use what you have.
+==========
+Getting Real (Jason Fried, David Heinemeier Hansson, Matthew Linderman and 37signals)
+- Highlight Loc. 255-58  | Added on Sunday, January 15, 2012, 10:40 PM
+
+As a developer, I hate this. The knowledge of all these small-scale timebombs in the applications I write adds to my stress. Open Source developers, scratching their own itches, don’t suffer this. Because they are their own users, they know the correct answers to 90% of the decisions they have to make. I think this is one of the reasons folks come home after a hard day of coding and then work on open source: It’s relaxing.
+==========
+Getting Real (Jason Fried, David Heinemeier Hansson, Matthew Linderman and 37signals)
+- Highlight Loc. 412-13  | Added on Tuesday, January 17, 2012, 08:15 PM
+
+Simple rules, as with the birds simulation, lead to complex behavior. Complex rules, as with the tax law in most countries, lead to stupid behavior.
+==========
+Getting Real (Jason Fried, David Heinemeier Hansson, Matthew Linderman and 37signals)
+- Highlight Loc. 508-14  | Added on Tuesday, January 17, 2012, 08:29 PM
+
+Andy Hunt and I once wrote a debit card transaction switch. A major requirement was that the user of a debit card shouldn’t have the same transaction applied to their account twice. In other words, no matter what sort of failure mode might happen, the error should be on the side of not processing a transaction rather than processing a duplicate transaction. So, we wrote it on our shared whiteboard in big letters: Err in favor of users. It joined about half-a-dozen other maxims. Jointly, these guided all those tricky decisions you make while building something complex. Together, these laws gave our application strong internal coherence and great external consistency.
+==========
+Getting Real (Jason Fried, David Heinemeier Hansson, Matthew Linderman and 37signals)
+- Highlight Loc. 951-55  | Added on Sunday, January 22, 2012, 05:28 PM
+
+So, if you’re in the middle of a months-long release cycle, dedicate a day a week (or every two weeks) for some small victories. Ask yourself “What can we do and release in 4 hours?” And then do it. It could be... A new simple feature A small enhancement to an existing feature Rewriting some help text to reduce the support burden Removing some form fields that you really don’t need
+==========
+Getting Real (Jason Fried, David Heinemeier Hansson, Matthew Linderman and 37signals)
+- Highlight Loc. 975  | Added on Sunday, January 22, 2012, 05:30 PM
+
+Adding people to a late software project makes it later.
+==========
+Getting Real (Jason Fried, David Heinemeier Hansson, Matthew Linderman and 37signals)
+- Highlight Loc. 1018-19  | Added on Sunday, January 22, 2012, 05:35 PM
+
+If you want something done, ask the busiest person you know.
+==========
+Getting Real (Jason Fried, David Heinemeier Hansson, Matthew Linderman and 37signals)
+- Highlight Loc. 1344-45  | Added on Sunday, January 29, 2012, 08:08 PM
+
+Build, don’t write. If you need to explain something, try mocking it up and prototyping it rather than writing a long-winded document.
+==========
+Working with Unix Processes (Jesse Storimer)
+- Highlight Loc. 171-72  | Added on Tuesday, January 31, 2012, 11:13 PM
+
+In Ruby you can access the name of the current process in the $PROGRAM_NAME variable.
+==========
+Working with Unix Processes (Jesse Storimer)
+- Highlight Loc. 124-25  | Added on Tuesday, January 31, 2012, 11:13 PM
+
+File descriptors are NOT shared between processes, they live and die with the process they are bound to, just as any open resources for a process are closed when it exits.
+==========
+Working with Unix Processes (Jesse Storimer)
+- Highlight Loc. 281  | Added on Wednesday, February 01, 2012, 12:48 PM
+
+What happens to a child process when its parent dies? The short answer is, nothing.
+==========
+Working with Unix Processes (Jesse Storimer)
+- Highlight Loc. 285  | Added on Wednesday, February 01, 2012, 12:49 PM
+
+Daemon processes are long running processes that are intentionally orphaned and meant to stay running forever.
+==========
+Working with Unix Processes (Jesse Storimer)
+- Highlight Loc. 290-91  | Added on Wednesday, February 01, 2012, 12:50 PM
+
+Physically copying all of that data can be considerable overhead, so modern Unix system employ something called copy-on-write (CoW) to combat this.
+==========
+Working with Unix Processes (Jesse Storimer)
+- Highlight Loc. 407  | Added on Saturday, February 04, 2012, 01:47 PM
+
+Now
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 2520-21  | Added on Sunday, February 12, 2012, 08:07 PM
+
+role of a real architect "...is to mentor the development team, to raise their level so that they can take on more complex issues."
+==========
+Practices of an Agile Developer (Dominik Liebler) (Hunt Subramaniam)
+- Highlight Loc. 2578  | Added on Sunday, February 12, 2012, 08:14 PM
+
+But if you educate someone, both of you gain more knowledge.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 258-59  | Added on Tuesday, February 14, 2012, 07:33 PM
+
+novices need clear, context-free rules by which they can operate,
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 930  | Added on Saturday, February 18, 2012, 03:42 PM
+
+Don't Dissect the Frog, Build It 
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 1054-56  | Added on Sunday, February 19, 2012, 03:02 PM
+
+According to Stanford University research psychologist Carol Dweck, author of Mindset: The New Psychology of Success  [MTNPOS] , students who believed they could not increase their intelligence in fact couldn't.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 1063  | Added on Sunday, February 19, 2012, 03:03 PM
+
+"Use it or lose it"
+==========
+Algorithms in a Nutshell (George T. Heineman and Stanley Selkow)
+- Highlight Loc. 226-27  | Added on Monday, February 20, 2012, 10:37 PM
+
+"Premature optimization is the root of all evil."
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 1622-23  | Added on Monday, February 27, 2012, 08:55 PM
+
+Necessity is the mother of invention. Play is the father of invention.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 1879  | Added on Monday, February 27, 2012, 10:49 PM
+
+the palest ink is better than the best memory.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2062-63  | Added on Saturday, March 10, 2012, 07:20 PM
+
+when collaborating with others: They may well have a different set of bugs than you do.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2133-35  | Added on Saturday, March 10, 2012, 07:30 PM
+
+The fact that we live at the bottom of a deep gravity well, on the surface of a gas-covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be. Douglas Adams, The Salmon of Doubt
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2221-22  | Added on Saturday, March 17, 2012, 12:32 PM
+
+At our current state of technology and culture, your ability to learn may be your most important element of success. It's what separates getting ahead from just getting by.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2241-42  | Added on Saturday, March 17, 2012, 12:36 PM
+
+Education comes from the Latin word educare, which literally means "led out," in the sense of being drawn forth.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2294  | Added on Saturday, March 17, 2012, 12:43 PM
+
+Specific, Measurable, Achievable, Relevant, and Time-boxed.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2360-61  | Added on Saturday, March 17, 2012, 02:58 PM
+
+Time can't be created or destroyed, only allocated.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2516-17  | Added on Wednesday, March 28, 2012, 09:03 PM
+
+Better ways to deliberately read and summarize written material
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2517  | Added on Wednesday, March 28, 2012, 09:04 PM
+
+Using mind maps to explore and find patterns and relationships
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2517  | Added on Wednesday, March 28, 2012, 09:04 PM
+
+Learning by teaching
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2521  | Added on Wednesday, March 28, 2012, 09:05 PM
+
+Written instruction is the least efficient.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2530  | Added on Wednesday, March 28, 2012, 09:07 PM
+
+This technique of studying a book or other printed matter is known as SQ3R;
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2621  | Added on Wednesday, March 28, 2012, 09:18 PM
+
+Use non-goal-oriented "play."
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2659-60  | Added on Saturday, March 31, 2012, 03:38 PM
+
+"I use mind maps to reorganize and focus myself when writing or coding. It forces me to step back and clean up my ideas and always shows me how to move forward."
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2726  | Added on Saturday, March 31, 2012, 03:47 PM
+
+See it. Do it. Teach it.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2788-89  | Added on Saturday, March 31, 2012, 04:14 PM
+
+We seem to have a cultural tendency to put the cart before the horse: you struggle to shovel in information first and then hope to maybe use it later.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2822-24  | Added on Saturday, March 31, 2012, 04:19 PM
+
+One of the definitions of fun, according to my dictionary on the Mac, is "playful behavior." That doesn't mean that it's easy, non-business-like, or not effective. In fact, Papert notes that his students called their work fun because it was hard, not in spite of being hard.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2869  | Added on Saturday, March 31, 2012, 04:26 PM
+
+You need to unlearn just as much as you need to learn.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2888-89  | Added on Saturday, March 31, 2012, 04:32 PM
+
+"I don't know" is a fine answer, but don't let it end
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2915-16  | Added on Saturday, March 31, 2012, 04:36 PM
+
+In software development, it's pretty simple to set up an infrastructure to address these needs. It's what we call the Starter Kit: version control, unit testing, and project automation.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 2994-96  | Added on Saturday, March 31, 2012, 04:47 PM
+
+Too often programmers (myself included) seem to jump in to fix an apparent bug without fully evaluating what's really wrong first. Fight the urge to rush to judgment or to a potential fix prematurely. Be fully aware of how the system is behaving, and only then decide what part of that is "wrong"
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3017-18  | Added on Sunday, April 01, 2012, 06:34 PM
+
+The mere presence of a looming deadline can panic the mind into failure.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3055-56  | Added on Sunday, April 01, 2012, 06:41 PM
+
+Give yourself permission to fail; it's the path to success.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3061-62  | Added on Sunday, April 01, 2012, 06:42 PM
+
+For whatever reasons of cognitive or neuroscience, once you make it OK to fail, you won't.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3070-71  | Added on Sunday, April 01, 2012, 06:44 PM
+
+Prototyping gives you a similar freedom. Maybe it will work out, maybe not. If it doesn't work out, you can use the lessons—apply the experience—and use that in the next iteration.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3072-73  | Added on Sunday, April 01, 2012, 06:44 PM
+
+On the other hand, if failure is costly, there will be no experimentation. No risk taking. No learning. Just a frozen mind, like deer in the headlights, bracing for the inevitable bloody impact.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3087-88  | Added on Sunday, April 01, 2012, 06:47 PM
+
+you really don't see what you think you see.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3102-4  | Added on Sunday, April 01, 2012, 06:49 PM
+
+The stereotypical story of the wife's new hairdo that the husband doesn't notice really happens: the husband "sees" based on old input. It's just how your brain works.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3111-13  | Added on Sunday, April 01, 2012, 06:51 PM
+
+Legendary jazz guitarist Pat Metheny takes this idea one step further and offers this advice: "Always be the worst guy in every band you're in. If you're the best guy there, you need to be in a different band.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3135-36  | Added on Sunday, April 01, 2012, 06:54 PM
+
+Ruby programmers might work in something like C++ for a while. C++ makes a very effective mental equivalent to heavy ankle weights; after working in C++, more dynamic languages then feel a whole lot easier by comparison. :-)
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3139-40  | Added on Tuesday, April 03, 2012, 07:59 PM
+
+remember "Trying fails, awareness cures." Stop and become fully aware of the problem first.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3201-2  | Added on Tuesday, April 03, 2012, 08:08 PM
+
+A good question is never answered. It is not a bolt to be tightened into place but a seed to be planted and to bear more seed toward the hope of greening the landscape of idea.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3222  | Added on Monday, April 09, 2012, 02:29 PM
+
+The first thing you need to do is pay attention.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3242-45  | Added on Monday, April 09, 2012, 02:32 PM
+
+So instead of saying you don't have time, it's probably more accurate to say you don't have the bandwidth. When you overload your bandwidth—your attentional resources—you'll miss things. You won't learn, you won't perform your work well, and your family will begin to think maybe you have a brain tumor or something.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3246-48  | Added on Monday, April 09, 2012, 02:33 PM
+
+Paul Graham, in his book Hackers and Painters: Big Ideas from the Computer Age [HAPBIFTCA] , suggests that "a navy pilot can land a 40,000 lb aircraft at 140mph on a pitching carrier deck at night more safely than the average teenager can cut a bagel."
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3267  | Added on Monday, April 09, 2012, 02:36 PM
+
+Learn to pay attention.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3275  | Added on Monday, April 09, 2012, 02:37 PM
+
+This is known as Vipassana meditation.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3306-7  | Added on Monday, April 09, 2012, 02:43 PM
+
+Meditation might sound trivial. It's not. I strongly suggest you give it a try for awhile; paying attention is a critical skill.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3307-8  | Added on Monday, April 09, 2012, 02:44 PM
+
+Experiment with meditation on a regular basis. Start by taking three deep relaxing "meditative" breaths at memorable times during the day: waking, at lunch, dinner, or before meetings.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3309  | Added on Monday, April 09, 2012, 02:44 PM
+
+Try to build up to a set period of twenty minutes or so every day, preferably at the same time. Can you begin to quiet your inner thoughts?
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3322-24  | Added on Monday, April 09, 2012, 02:46 PM
+
+There's a widespread misconception that as a programmer (or other knowledge worker), if you're not typing on a keyboard, then you're not working.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3319-20  | Added on Monday, April 09, 2012, 02:46 PM
+
+"It's very clear that for a lot of people the creative process includes an enormous amount of sitting around doing nothing."
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3343-44  | Added on Monday, April 09, 2012, 02:54 PM
+
+I've always referred to procrastination as "making paper dolls."
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3358-60  | Added on Tuesday, April 10, 2012, 08:56 PM
+
+Have you heard of the consultant's Rule of Three?[142] In general, if you can't think of three ways a plan can go wrong or think of three different solutions to a problem, then you haven't thought it through enough.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3382-83  | Added on Tuesday, April 10, 2012, 09:02 PM
+
+Albert Einstein knew this well. Supposedly he was once asked how many feet there were in a mile and replied that he wouldn't fill his brain with things that could easily be
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3492  | Added on Tuesday, April 10, 2012, 09:14 PM
+
+Face it full on and well-armed.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3574-75  | Added on Tuesday, April 10, 2012, 09:25 PM
+
+limit your email handling to specific, scheduled times during the day—probably not first thing, though.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3578-79  | Added on Tuesday, April 10, 2012, 09:26 PM
+
+Second, bump up the polling interval.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3576  | Added on Tuesday, April 10, 2012, 09:26 PM
+
+First, fix your email announcement.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Bookmark Loc. 3582  | Added on Tuesday, April 10, 2012, 09:26 PM
+
+
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3634-36  | Added on Tuesday, April 10, 2012, 09:34 PM
+
+Do you know what Alt-Tab (or Command-Tab on Mac) is called? It's a context switch. And as we've seen, context switching kills productivity. Even a small action like using Alt-Tab to switch between windows that aren't all visible takes time and requires short-term memory and energy.
+==========
+Pragmatic Thinking and Learning (Dominik Liebler) (Hunt)
+- Highlight Loc. 3797-99  | Added on Friday, April 13, 2012, 05:51 PM
+
+Leonardo da Vinci complained about this 600 years ago: "People look without seeing, hear without listening, eat without awareness of taste, touch without feeling, and talk without thinking."
+==========
+Steve Jobs (Walter Isaacson)
+- Highlight on Page 15 | Loc. 553-54  | Added on Thursday, May 03, 2012, 07:46 PM
+
+“I think different religions are different doors to the same house. Sometimes I think the house exists, and sometimes I don’t. It’s the great mystery.”
+==========
+Steve Jobs (Walter Isaacson)
+- Highlight on Page 143 | Loc. 2656-58  | Added on Saturday, May 05, 2012, 12:03 AM
+
+do some market research to see what customers wanted. “No,” he replied, “because customers don’t know what they want until we’ve shown them.”
+==========
+Iron Man - Von Black Sabbath bis Heaven & Hell (German Edition) (Tony Iommi and TJ Lammers)
+- Highlight on Page 15 | Loc. 157-58  | Added on Wednesday, June 20, 2012, 09:17 PM
+
+Ich glaube zwar an Gott, muss aber nicht in die Kirche gehen, um das zu zeigen und zu beweisen.
+==========
+Iron Man - Von Black Sabbath bis Heaven & Hell (German Edition) (Tony Iommi and TJ Lammers)
+- Highlight on Page 302 | Loc. 4841-43  | Added on Monday, June 25, 2012, 06:25 PM
+
+Er wollte den Job. Da er das Business so gut kannte, hatte er eine der wichtigsten Grundregeln gelernt: Warte nie auf einen Anruf! Wenn du nicht selbst den Telefonhörer in die Hand nimmst, wirst du auf immer und ewig versauern. Dieses Gesetz bewahrheitete sich ein weiteres Mal.
+==========
+Slash: The Autobiography (Slash)
+- Highlight on Page 9 | Loc. 179-80  | Added on Friday, June 29, 2012, 04:06 PM
+
+He was a stereotypically bad drinker: he was never violent, because my dad is much too smart and complicated to ever express himself through brute violence,
+==========
+Slash: The Autobiography (Slash)
+- Highlight on Page 44 | Loc. 685-86  | Added on Tuesday, July 03, 2012, 11:10 PM
+
+Imitation should remain a stepping stone for a player to find his or her own voice, but it must never become his or her voice:
+==========
+Slash: The Autobiography (Slash)
+- Highlight on Page 44 | Loc. 686-87  | Added on Tuesday, July 03, 2012, 11:10 PM
+
+Guitar is too personal of an expression for that; it should be exactly what it is—a singular extension of the player.
+==========
+Slash: The Autobiography (Slash)
+- Highlight on Page 57 | Loc. 884-85  | Added on Wednesday, July 04, 2012, 07:14 PM
+
+it was all twelve-bar blues and standard blues-based covers like the Stones, which I had a feel for. I got free beers out of it, which is what made it truly professional.
+==========
+Slash: The Autobiography (Slash)
+- Highlight on Page 58 | Loc. 899-900  | Added on Wednesday, July 04, 2012, 08:07 PM
+
+Tidus Sloan played early Black Sabbath, early Rush, early Zeppelin, and early Deep Purple without vocals—we were retro before there was a retro.
+==========
+I Am Jennie (Jennie Ketcham)
+- Highlight Loc. 4353-54  | Added on Sunday, August 12, 2012, 07:56 PM
+
+Just because someone might need to ask for help did not mean that that someone was weak. Sometimes, it takes more strength and courage to ask for help than to not ask.
+==========
+Psycho? Logisch!: Nützliche Erkenntnisse der Alltagspsychologie (German Edition) (Volker Kitz and Manuel Tusch)
+- Highlight on Page 19 | Loc. 177-78  | Added on Monday, August 20, 2012, 07:39 PM
+
+»Es sind nicht die Dinge, die uns beunruhigen, sondern die Meinungen, die wir von den Dingen haben.«
+==========
+Psycho? Logisch!: Nützliche Erkenntnisse der Alltagspsychologie (German Edition) (Volker Kitz and Manuel Tusch)
+- Highlight on Page 207 | Loc. 2610-11  | Added on Monday, September 24, 2012, 05:55 PM
+
+Dass viele Menschen eher zuschauen als helfen, ist in der Psychologie als der »Zuschauereffekt« gut erforscht.
+==========
+Psycho? Logisch!: Nützliche Erkenntnisse der Alltagspsychologie (German Edition) (Volker Kitz and Manuel Tusch)
+- Highlight on Page 208 | Loc. 2628-29  | Added on Monday, September 24, 2012, 05:56 PM
+
+»pluralistische Ignoranz«: Wenn sich niemand aufregt, regen wir uns auch nicht auf.
+==========
+Psycho? Logisch!: Nützliche Erkenntnisse der Alltagspsychologie (German Edition) (Volker Kitz and Manuel Tusch)
+- Highlight on Page 210 | Loc. 2648-49  | Added on Monday, September 24, 2012, 05:58 PM
+
+»Verantwortungsdiffusion«. Selbst wenn wir die Lage richtig einschätzen, fühlen wir uns weniger verantwortlich zu helfen, je mehr andere Menschen anwesend sind.
+==========
+Psycho? Logisch!: Nützliche Erkenntnisse der Alltagspsychologie (German Edition) (Volker Kitz and Manuel Tusch)
+- Highlight on Page 213 | Loc. 2690  | Added on Wednesday, September 26, 2012, 07:30 PM
+
+Adams, Evas und unser Verhalten bezeichnen wir in der Fachsprache als »reaktant«.
+==========
+Psycho? Logisch!: Nützliche Erkenntnisse der Alltagspsychologie (German Edition) (Volker Kitz and Manuel Tusch)
+- Highlight on Page 213 | Loc. 2695-97  | Added on Wednesday, September 26, 2012, 07:32 PM
+
+So bewerten zum Beispiel Kinder einen unterbrochenen Film besser, wenn er angeblich nicht mehr fortgesetzt werden kann, als wenn sie ihn später doch noch zu Ende schauen dürfen.
+==========
+Psycho? Logisch!: Nützliche Erkenntnisse der Alltagspsychologie (German Edition) (Volker Kitz and Manuel Tusch)
+- Highlight on Page 219 | Loc. 2768-69  | Added on Wednesday, September 26, 2012, 07:35 PM
+
+Der Besitztumseffekt führt dazu, dass wir denselben Gegenstand für wertvoller halten, wenn wir ihn besitzen, als wenn ihn jemand anderes besitzt.
+==========
+Psycho? Logisch!: Nützliche Erkenntnisse der Alltagspsychologie (German Edition) (Volker Kitz and Manuel Tusch)
+- Highlight on Page 219 | Loc. 2769-72  | Added on Wednesday, September 26, 2012, 07:36 PM
+
+Probanden in zwei Gruppen ein. Den Probanden der einen Gruppe gibt man jeweils eine Tasse in die Hand. Der anderen Gruppe zeigt man die Tassen nur. Fragt man nun, welchen Preis die Probanden für die Tasse fordern beziehungsweise zahlen würden, so hält die Gruppe ohne Tassen im Schnitt einen Preis von 2,87 Dollar für angemessen. Wer die Tasse schon in der Hand hat, findet hingegen, sie sei einen Verkaufspreis von 7,12 Dollar wert, also mehr als doppelt so viel!
+==========
+Psycho? Logisch!: Nützliche Erkenntnisse der Alltagspsychologie (German Edition) (Volker Kitz and Manuel Tusch)
+- Highlight on Page 220 | Loc. 2775-76  | Added on Wednesday, September 26, 2012, 07:36 PM
+
+potenziellen Kunden eine Ware für zwei Wochen zum Testen überlassen – den Gegenstand wieder zurückgeben zu müssen, ist schlimmer, als ihn von vornherein nicht zu haben.
+==========
+Die Känguru Chroniken: Ansichten eines vorlauten Beuteltiers (German Edition) (Marc-Uwe Kling)
+- Highlight Loc. 298  | Added on Wednesday, October 10, 2012, 01:01 PM
+
+»Wer hat, dem wird gegeben«,
+==========
+Die Känguru Chroniken: Ansichten eines vorlauten Beuteltiers (German Edition) (Marc-Uwe Kling)
+- Highlight Loc. 423-24  | Added on Wednesday, October 10, 2012, 01:08 PM
+
+»Wir kämpfen für eine gerechte Weltordnung, für Brot für alle und für die Ächtung von sogenanntem Musikfernsehen.«
+==========
+Die Känguru Chroniken: Ansichten eines vorlauten Beuteltiers (German Edition) (Marc-Uwe Kling)
+- Highlight Loc. 687  | Added on Wednesday, October 10, 2012, 01:29 PM
+
+»So ist das in der Welt. Der eine hat den Beutel, der andere hat das Geld.«
+==========
+Das Känguru-Manifest (German Edition) (Marc-Uwe Kling)
+- Highlight on Page 72 | Loc. 1429-33  | Added on Friday, October 12, 2012, 12:08 PM
+
+»Da gibt es mal wieder eine große internationale Systemkrise«, sagt das Känguru kopfschüttelnd, »und dann kommt einer an – noch dazu ein Banker – und sagt: ›Schuld haben nicht etwa die Politiker, die Banker, die Lobbyisten oder der Kapitalismus … Nein! Schuld haben‹ – Achtung! – ›DIE AUSLÄNDER!‹ Na klar. Juchhe! Voll die neue Idee! Und der ganze Pöbel ruft: ›Ja, das habe ich mir schon immer gedacht. Die sehen ja schon so komisch aus, und die reden so seltsam, und die mögen keine Leberwurscht!‹«
+==========
+Das Känguru-Manifest (German Edition) (Marc-Uwe Kling)
+- Highlight on Page 95 | Loc. 1988  | Added on Friday, October 12, 2012, 01:53 PM
+
+mein lieber Jugendlicher mit Migränehintergrund«,
+==========
+Das Känguru-Manifest (German Edition) (Marc-Uwe Kling)
+- Highlight on Page 166 | Loc. 3760-61  | Added on Saturday, October 13, 2012, 02:57 PM
+
+»Die einzige stabile Währung ist alkoholische Gärung.«
+==========
+Das Känguru-Manifest (German Edition) (Marc-Uwe Kling)
+- Highlight on Page 206 | Loc. 4652-58  | Added on Saturday, October 13, 2012, 04:26 PM
+
+»Machst du mich zum Kardinal?«, frage ich. »Diesbezüglich möchte ich dich auf die gute alte katholische Tradition der Simonie verweisen«, sagt das Känguru. »Ich soll mir das Amt kaufen?« »Korrekt.«
+==========
+Das Känguru-Manifest (German Edition) (Marc-Uwe Kling)
+- Highlight on Page 221 | Loc. 5006-7  | Added on Saturday, October 13, 2012, 04:38 PM
+
+Wirklich selten habe ich zwei Betrunkene auf einem so hohen Niveau diskutieren hören.
+==========
+Das Känguru-Manifest (German Edition) (Marc-Uwe Kling)
+- Highlight on Page 226 | Loc. 5142-43  | Added on Saturday, October 13, 2012, 06:15 PM
+
+»Es ist immer noch wie im 30-jährigen Krieg«, sage ich zum Känguru. »Wes Brot ich ess, des Lied ich sing.«
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 269-70  | Added on Sunday, March 03, 2013, 06:51 PM
+
+Bus factor (noun): the number of people that need to get hit by a bus before your project is completely doomed.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 308-11  | Added on Sunday, March 03, 2013, 06:56 PM
+
+We used to work on a team with a vocal interrupt protocol: if you wanted to talk, you would say “breakpoint Mary” where Mary was the name of the person you wanted to talk to. If Mary was at a point where she could stop, she would swing her chair around and listen. If Mary was too busy, she’d just say “ack” and you’d go on with other things until she finished with her current head state.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 348-49  | Added on Sunday, March 03, 2013, 07:01 PM
+
+You believe others are competent and will do the right thing, and you’re OK with letting them drive when appropriate.[
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 428  | Added on Sunday, March 03, 2013, 07:13 PM
+
+This feedback is full of antipatterns: you’re telling someone he’s “wrong” (as if the world were black and white!),
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 444-45  | Added on Sunday, March 03, 2013, 07:15 PM
+
+one of our favorite mottoes of Google’s is “Failure is an option.”
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 446-48  | Added on Sunday, March 03, 2013, 07:16 PM
+
+“If I find 10,000 ways something won’t work, I haven’t failed. I am not discouraged, because every wrong attempt discarded is another step forward.”
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 453-54  | Added on Sunday, March 03, 2013, 07:17 PM
+
+it’s OK to show imperfect software to users, and some trust that your users really do appreciate your efforts and are eager to see rapid improvements.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 454  | Added on Sunday, March 03, 2013, 07:18 PM
+
+The key to learning from your mistakes is to document your failures.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 500  | Added on Sunday, March 03, 2013, 07:23 PM
+
+Sometimes the best thing you can do is just to say, “I don’t know.”
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 566-68  | Added on Tuesday, March 05, 2013, 07:32 PM
+
+If your team doesn’t value your culture, not only is it difficult to build a strong team identity and collective pride in your work, but also it’s very easy for a newcomer to change your culture into something that sucks.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 638-39  | Added on Sunday, March 10, 2013, 01:25 PM
+
+If you can find friends or colleagues who will constructively criticize your work when you ask them, hang on to these people because they’re worth their weight in unobtainium.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 664-65  | Added on Sunday, March 10, 2013, 01:28 PM
+
+A good general rule around communication is to include as few people as necessary in synchronous communication
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 721  | Added on Sunday, March 10, 2013, 01:35 PM
+
+The key to making this meeting work is that people should be happy to leave the meeting once the main part of it is done,
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 856-57  | Added on Saturday, March 16, 2013, 03:03 PM
+
+out-of-date or incorrect comments drastically hinder understanding of a code base.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 858-59  | Added on Saturday, March 16, 2013, 03:04 PM
+
+Comments should be focused on why the code is doing what it’s doing, not what the code is doing.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 885  | Added on Saturday, March 16, 2013, 03:07 PM
+
+littering source files with your name is, in our opinion, more trouble than it’s worth.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 922-23  | Added on Saturday, March 16, 2013, 03:11 PM
+
+Strong teams don’t arise spontaneously; they’re carefully seeded and cultivated by team leads and founders who understand the high cost of trying to write software with a dysfunctional team.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 931  | Added on Saturday, March 16, 2013, 03:13 PM
+
+Code is ultimately about communications with people, not just with a
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 931  | Added on Saturday, March 16, 2013, 03:13 PM
+
+Code is ultimately about communications with people, not just with a machine.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 990-91  | Added on Saturday, March 16, 2013, 03:16 PM
+
+A boat without a captain is nothing more than a floating waiting room—unless someone grabs the rudder and starts the engine, it’s just going to drift along aimlessly with the current.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Bookmark Loc. 998  | Added on Saturday, March 16, 2013, 03:17 PM
+
+
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 998  | Added on Saturday, March 16, 2013, 03:17 PM
+
+“manageritis.”
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1017-18  | Added on Saturday, March 16, 2013, 03:19 PM
+
+Managers wind up acting like parents,[
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1045-46  | Added on Saturday, March 16, 2013, 03:23 PM
+
+at the end of a busy day of “management” you’ll usually find yourself thinking, “I didn’t do a damned thing today.”
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1067  | Added on Saturday, March 16, 2013, 03:26 PM
+
+The cure for the “management” disease is a liberal application of what we call “servant leadership,”
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1084  | Added on Saturday, March 16, 2013, 03:28 PM
+
+you should strive to hire people who are smarter than you and can replace you.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1095  | Added on Saturday, March 16, 2013, 03:30 PM
+
+the hardest part of dealing with humans is handling someone who isn’t meeting expectations.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1097-98  | Added on Saturday, March 16, 2013, 03:30 PM
+
+The team at Google that is responsible for keeping all of our services running has a motto: “Hope is not a strategy.”
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1229-30  | Added on Saturday, March 16, 2013, 03:49 PM
+
+The engineer asking for advice typically doesn’t want you to solve his problem, but rather to help him solve it, and the easiest way to do this is to ask him questions.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1254-55  | Added on Sunday, March 24, 2013, 04:55 PM
+
+In many cases, knowing the right people is more valuable than knowing the right answer.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1260-61  | Added on Sunday, March 24, 2013, 04:55 PM
+
+A good way to build a culture where risk taking is accepted is to let your team know it’s OK to fail.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1267  | Added on Sunday, March 24, 2013, 04:57 PM
+
+every time we have a production failure at Google we go through what we call a postmortem.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1272  | Added on Sunday, March 24, 2013, 04:57 PM
+
+It’s OK to fail, but fail as a team and learn from your failures.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1272-73  | Added on Sunday, March 24, 2013, 04:58 PM
+
+If an individual succeeds, praise him in front of the team. If an individual fails, give constructive criticism in private.[
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1303-4  | Added on Sunday, March 24, 2013, 05:01 PM
+
+If a team member approaches you about something you can’t share with him, it’s OK to just tell him you know the answer but can’t tell him.
+==========
+Team Geek (Brian W. Fitzpatrick and Ben Collins-Sussman)
+- Highlight Loc. 1364-65  | Added on Sunday, March 24, 2013, 05:11 PM
+
+engineer would like to do in the next five years: get promoted, learn something new, launch something important, and work with smart people. Regardless of whether they verbalize this, most engineers are thinking about it.
+==========
+Being Geek (Michael Lopp)
+- Highlight on Page 8 | Loc. 194  | Added on Tuesday, June 04, 2013, 09:54 PM
+
+It’s OK to quit a job with people you like because there are a lot of people to like out there.
+==========
+Being Geek (Michael Lopp)
+- Highlight on Page 18 | Loc. 345  | Added on Tuesday, June 04, 2013, 10:19 PM
+
+Nothing taints common sense more than being pissed off.
+==========
+Being Geek (Michael Lopp)
+- Highlight on Page 35 | Loc. 598  | Added on Wednesday, June 05, 2013, 04:15 PM
+
+With each successful answer to a question, you provide a more complete picture of who you are and gain confidence,
+==========
+Being Geek (Michael Lopp)
+- Highlight on Page 39 | Loc. 628-29  | Added on Wednesday, June 05, 2013, 04:20 PM
+
+The sooner you know what their agenda is, the sooner you’re prepared to handle your only job during this interview. You need to get them talking.
+==========
+Being Geek (Michael Lopp)
+- Highlight on Page 46 | Loc. 739-40  | Added on Wednesday, June 05, 2013, 04:35 PM
+
+Your welfare is not your employer’s first priority. It takes one layoff to figure that out.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 3 | Loc. 75-76  | Added on Thursday, June 06, 2013, 04:58 PM
+
+Because it is much easier, as well as far more enjoyable, to identify and label the mistakes of others than to recognize our own.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 23 | Loc. 375  | Added on Sunday, June 09, 2013, 07:22 PM
+
+You can do several things at once, but only if they are easy and undemanding.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 24 | Loc. 389-90  | Added on Sunday, June 09, 2013, 07:24 PM
+
+The gorilla study illustrates two important facts about our minds: we can be blind to the obvious, and we are also blind to our blindness.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 28 | Loc. 462-63  | Added on Sunday, June 09, 2013, 07:36 PM
+
+The premise of this book is that it is easier to recognize other people’s mistakes than our own.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 35 | Loc. 583  | Added on Wednesday, June 12, 2013, 07:29 PM
+
+Laziness is built deep into our nature.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 36 | Loc. 590-91  | Added on Wednesday, June 12, 2013, 07:30 PM
+
+Mental multiplication of two-digit numbers and the Add-3 task are near the limit of what most people can do.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 37 | Loc. 610-11  | Added on Wednesday, June 12, 2013, 07:33 PM
+
+One of the significant discoveries of cognitive psychologists in recent decades is that switching from one task to another is effortful, especially under time pressure.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 38 | Loc. 630-31  | Added on Wednesday, June 12, 2013, 07:39 PM
+
+“She did not forget about the meeting. She was completely focused on something else when the meeting was set and she just didn’t hear you.”
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 40 | Loc. 647-48  | Added on Wednesday, June 12, 2013, 07:41 PM
+
+If I must construct an intricate argument under time pressure, I would rather be still, and I would prefer sitting to standing.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 39 | Loc. 645-46  | Added on Wednesday, June 12, 2013, 07:41 PM
+
+While walking comfortably with a friend, ask him to compute 23 × 78 in his head, and to do so immediately. He will almost certainly stop in his tracks.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 40 | Loc. 663-64  | Added on Wednesday, June 12, 2013, 07:44 PM
+
+flow describe it as “a state of effortless concentration so deep that they lose their sense of time, of themselves, of their problems,”
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 41 | Loc. 669-70  | Added on Wednesday, June 12, 2013, 07:45 PM
+
+It is now a well-established proposition that both self-control and cognitive effort are forms of mental work.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 41 | Loc. 676-77  | Added on Wednesday, June 12, 2013, 07:46 PM
+
+of course cognitive load is not the only cause of weakened self-control. A few drinks have the same effect, as does a sleepless night.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 43 | Loc. 707-8  | Added on Wednesday, June 12, 2013, 07:52 PM
+
+The nervous system consumes more glucose than most other parts of the body, and effortful mental activity appears to be especially expensive in the currency of glucose.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 44 | Loc. 727-28  | Added on Wednesday, June 12, 2013, 07:56 PM
+
+tired and hungry judges tend to fall back on the easier default position of denying requests for parole.
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 48 | Loc. 821-22  | Added on Saturday, June 29, 2013, 11:10 AM
+
+He draws a sharp distinction between two parts of System 2—indeed,
+==========
+Thinking, Fast and Slow (Daniel Kahneman)
+- Highlight on Page 52 | Loc. 879-80  | Added on Saturday, July 06, 2013, 06:45 PM
+
+you know far less about yourself than you feel you do.
+==========
+Wunder muss man selber machen: Wie ich die Wirtschaft auf den Kopf stelle (German Edition) (Sina Trinkwalder)
+- Highlight Loc. 174-75  | Added on Sunday, November 10, 2013, 10:51 PM
+
+Mir ging es immer ums Machen, nie ums Sein. Fürs Machen war Geld irrelevant, fürs Sein unumgänglich.
+==========
+Wunder muss man selber machen: Wie ich die Wirtschaft auf den Kopf stelle (German Edition) (Sina Trinkwalder)
+- Highlight Loc. 341  | Added on Monday, November 11, 2013, 09:29 PM
+
+Fehlen Anerkennung und Wertschätzung, wird selbst die beste Entlohnung zum Schmerzensgeld.
+==========
+I Am Ozzy (Ozzy Osbourne)
+- Highlight on Page 20 | Loc. 314-17  | Added on Sunday, December 22, 2013, 04:13 PM
+
+The old lady had been married with kids during the war but her husband had been sent off to France and had been shot by the Nazis. On top of that, her kids had died in a bomb shelter. But she lived as though they were all still alive. There were photographs everywhere and clothes laid out and children’s toys and everything. The entire house was frozen in time. It was the most heartbreaking thing I’d ever seen.
+==========
+I Am Ozzy (Ozzy Osbourne)
+- Highlight on Page 54 | Loc. 821  | Added on Monday, December 23, 2013, 07:32 AM
+
+To say that I suffer from pre-show nerves is like saying that when you get hit by an atom bomb it hurts a bit.
+==========
+I Am Ozzy (Ozzy Osbourne)
+- Highlight on Page 170 | Loc. 2576-78  | Added on Thursday, December 26, 2013, 12:09 PM
+
+All the anger I felt towards Meehan came pouring out. But y’know what? All that bullshit he pulled on us didn’t get him anywhere in the end. You should see him now: he looks like a fat, boozy old fuck. But I don’t hate him. Hating people isn’t a productive way of living.
+==========
+I Am Ozzy (Ozzy Osbourne)
+- Highlight on Page 350 | Loc. 5291-92  | Added on Thursday, January 02, 2014, 11:07 AM
+
+That’s why I’ve always thought that the best way to stop people taking drugs is to legalise the fucking things.
+==========
+Zeitraffer Aufnehmen und Bearbeiten v3 (Gunther Wegner)
+- Highlight Loc. 997-98  | Added on Tuesday, February 18, 2014, 04:34 PM
+
+Helligkeitsschwankungen unberührten Bildausschnitt für die Belichtungsmessung bei der Aufnahme verwenden solltet (Spot-Messung).
+==========
+Die Känguru-Offenbarung (German Edition) (Marc-Uwe Kling)
+- Highlight Loc. 2576  | Added on Saturday, March 29, 2014, 10:36 AM
+
+Weißt du, was passiert, wenn man sich immer alle Türen offen hält? Dann zieht’s, mein Freund! Dann wird man krank.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 425-26  | Added on Saturday, May 03, 2014, 04:05 PM
+
+Context Maps are a powerful tool to help a team understand their business domain,
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 500  | Added on Saturday, May 03, 2014, 04:17 PM
+
+Scrum was not meant only as a means to keep Gantt chart enthusiasts happy. Yet, it has become that in so many cases.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 510-11  | Added on Saturday, May 03, 2014, 04:18 PM
+
+even Martin Fowler has aptly nicknamed these “aggregate-oriented storage.” It’s a fitting name and well describes the advantages of using NoSQL storage in a DDD setting.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 538  | Added on Saturday, May 03, 2014, 04:22 PM
+
+dddcommunity.org,
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 643  | Added on Monday, May 05, 2014, 08:03 AM
+
+Modules should contain a limited set of cohesive domain objects.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 704-6  | Added on Monday, May 05, 2014, 08:11 AM
+
+Your questions about what they know will most likely also uncover what they don’t know. You’ll be directly involved in helping everyone on the team discover a deeper understanding of the business, even shaping the business.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 711-12  | Added on Monday, May 05, 2014, 08:13 AM
+
+Look past the job title. The people you are looking for know more about what you are working on than anyone else, and for sure way more than you know. Find them. Listen. Learn. Design in code.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 723-24  | Added on Monday, May 05, 2014, 08:17 AM
+
+Using DDD, you never try to model the whole business enterprise with a single, large domain model.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 758-59  | Added on Monday, May 05, 2014, 08:22 AM
+
+One of the biggest problems is the false need for translation between business people and techies.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 821-22  | Added on Monday, May 05, 2014, 08:35 AM
+
+A similar dynamic is at play as your software development teams interpret what the business needs into what the newly developed software actually does.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 831-33  | Added on Monday, May 05, 2014, 08:36 AM
+
+It’s never “us and them.” It’s always us. This is a key business value that allows business know-how to outlive the relatively short initial development efforts
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 855  | Added on Monday, May 05, 2014, 08:43 AM
+
+Use DDD to model a complex domain in the simplest possible way. Never use DDD to make your solution more complex.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 857-58  | Added on Monday, May 05, 2014, 08:43 AM
+
+rather than determining what is complex, it may be easier to determine what is nontrivial.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 1022-24  | Added on Wednesday, May 07, 2014, 02:30 PM
+
+every use of a given domain term, phrase, or sentence—the Ubiquitous Language—inside the boundary has a specific contextual meaning. Any use of the term outside that boundary could, and probably does, mean something different.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 1033-34  | Added on Wednesday, May 07, 2014, 02:31 PM
+
+The Ubiquitous Language is a shared language developed by the team—a team composed of both domain experts and software developers.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 1074-75  | Added on Wednesday, May 07, 2014, 02:48 PM
+
+be prepared to abandon the drawings, glossary, and other documentation that will be difficult to keep up-to-date with the spoken Ubiquitous Language and source code
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 1115-17  | Added on Wednesday, May 07, 2014, 03:03 PM
+
+• Bounded Contexts are relatively small, smaller than we might at first imagine. A Bounded Context is large enough only to capture the complete Ubiquitous Language of the isolated business domain, and no larger.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 1163-64  | Added on Monday, May 12, 2014, 07:15 AM
+
+Developers now share a common Language as a unified team along with domain experts. They benefit further from the knowledge transfer from the domain experts they work with.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 1193-94  | Added on Monday, May 12, 2014, 07:21 AM
+
+Disparate teams, sometimes each responsible for a given Bounded Context, use Context Maps to strategically segregate Bounded Contexts and understand their integrations.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 1273-74  | Added on Monday, May 12, 2014, 07:31 AM
+
+What if the client mistakenly changes only the sprintId but not the status, or the opposite? Or what if in the future another attribute must be set?
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 1374-75  | Added on Wednesday, May 14, 2014, 03:15 PM
+
+You also know your business and technology landscape. In the end it is the business customer, not the object practitioners and technologists, who must be pleased. Choose wisely.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 1391-92  | Added on Wednesday, May 14, 2014, 03:19 PM
+
+DDD promotes lightweight development, not ceremonious, heavy, up-front design. From that standpoint it really isn’t different from common agile development.
+==========
+Implementing Domain-Driven Design (Vaughn Vernon)
+- Highlight Loc. 1498-99  | Added on Wednesday, May 14, 2014, 03:37 PM
+
+A Domain, in the broad sense, is what an organization does and the world it does it in.
+==========
+A Game of Thrones (A Song of Ice and Fire, Book 1) (George R. R. Martin)
+- Highlight on Page 14 | Loc. 296-97  | Added on Monday, May 19, 2014, 07:59 AM
+
+If you would take a man’s life, you owe it to him to look into his eyes and hear his final words. And if you cannot bear to do that, then perhaps the man does not deserve to die.
+==========
+Principles of PHP Package Design (Matthias Noback)
+- Highlight Loc. 709-13  | Added on Thursday, August 28, 2014, 07:41 PM
+
+Recognizing classes that violate the Open/closed principle This is a list of characteristics of classes that may not be open for extension: The class has conditions to determine a strategy. Conditions using the same variables or constants are recurring inside the class or related classes. It contains hard-coded references to other classes or class names. Inside the class objects are being created using the new operator.
+==========
+Principles of PHP Package Design (Matthias Noback)
+- Highlight Loc. 951  | Added on Thursday, August 28, 2014, 07:47 PM
+
+Make fine grained interfaces that are client specific.
+==========
+Principles of PHP Package Design (Matthias Noback)
+- Highlight Loc. 1197-98  | Added on Thursday, August 28, 2014, 07:58 PM
+
+Martin Fowler calls these different types of interfaces role interface and header interface respectively.
+==========
+Clojure Programming (Chas Emerick, Brian Carper and Christophe Grand)
+- Highlight Loc. 231-32  | Added on Sunday, October 05, 2014, 10:23 AM
+
+Clojure’s reference types enforce a clean separation of state and identity,
+==========
+Clojure Programming (Chas Emerick, Brian Carper and Christophe Grand)
+- Highlight Loc. 273-75  | Added on Sunday, October 05, 2014, 10:27 AM
+
+Once you understand how Clojure’s REPL works (in particular, its read and eval phases), you’ll understand how Clojure itself works at the most fundamental level.
+==========
+Clojure Programming (Chas Emerick, Brian Carper and Christophe Grand)
+- Highlight Loc. 313  | Added on Sunday, October 05, 2014, 10:34 AM
+
+(/ (apply + numbers) (count numbers)))
+==========
+Clojure Programming (Chas Emerick, Brian Carper and Christophe Grand)
+- Note Loc. 313  | Added on Sunday, October 05, 2014, 10:35 AM
+
+apply wendet parameter 1 (function) auf parameter 2 an
+==========
+Clojure Programming (Chas Emerick, Brian Carper and Christophe Grand)
+- Highlight Loc. 679-80  | Added on Tuesday, October 07, 2014, 08:21 PM
+
+Evaluation can be suppressed by prefixing a form with a quote character ('); see Suppressing Evaluation: quote .
+==========
+Clojure Programming (Chas Emerick, Brian Carper and Christophe Grand)
+- Highlight Loc. 680-81  | Added on Tuesday, October 07, 2014, 08:21 PM
+
+Anonymous function literals can be defined very concisely using the #() notation; see Function literals .
+==========
+Clojure Programming (Chas Emerick, Brian Carper and Christophe Grand)
+- Highlight Loc. 807-9  | Added on Tuesday, October 07, 2014, 08:34 PM
+
+do evaluates all of the expressions provided to it in order and yields the last expression’s value as its value.
+==========
+Clojure Distilled (Unknown)
+- Highlight Loc. 44-45  | Added on Sunday, October 12, 2014, 10:00 PM
+
+When we need to solve a problem we simply have to break it up into a sequence of transformations and map those to the appropriate functions.
+==========
+Clojure Distilled (Unknown)
+- Highlight Loc. 58-59  | Added on Sunday, October 12, 2014, 10:02 PM
+
+Should we discover that each operation takes a significant amount of time, we can then simply switch to using the pmap function to run these operations in parallel.
+==========
+Clojure Distilled (Unknown)
+- Highlight Loc. 237-39  | Added on Tuesday, October 14, 2014, 10:16 PM
+
+Here, we use ->> to thread the operations from one to the next. This means that we implicitly pass the result of each expression as the last argument of the next expression. To pass it as the first argument we'd use the -> form instead.
+==========
+Clojure Distilled (Unknown)
+- Highlight Loc. 352-55  | Added on Wednesday, October 15, 2014, 10:01 PM
+
+Clojure provides two ways to do this, we can either use the :use or the :require keywords. When we reference a namespace with :use, all its Vars become implicitly available as if they were defined in the namespace that references it.
+==========
+Programming Phoenix (Bruce Tate, and José Valim Chris McCord)
+- Highlight Loc. 8611-12  | Added on Tuesday, March 01, 2016, 09:21 PM
+
+10:Task.start_link (​fn -> compute_additional_info(ann, socket) ​ end)
+==========
+Programming Phoenix (Bruce Tate, and José Valim Chris McCord)
+- Note Loc. 8612  | Added on Tuesday, March 01, 2016, 09:22 PM
+
+start jobs in background with tasks
+==========
+Programming Phoenix (Bruce Tate, and José Valim Chris McCord)
+- Highlight Loc. 8646-47  | Added on Tuesday, March 01, 2016, 09:23 PM
+
+for result <- Rumbl.InfoSys.compute(ann.body, ​ limit: 1, ​ timeout: 10_000) ​ do
+==========
+Programming Phoenix (Bruce Tate, and José Valim Chris McCord)
+- Note Loc. 8646  | Added on Tuesday, March 01, 2016, 09:23 PM
+
+for comprehension to collect the results
+==========
+Programming Phoenix (Bruce Tate, and José Valim Chris McCord)
+- Note Loc. 8497  | Added on Tuesday, March 01, 2016, 09:25 PM
+
+handle round robin like runnung of multiple processes at once
+==========
