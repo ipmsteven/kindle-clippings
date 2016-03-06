@@ -33,9 +33,9 @@ defmodule KindleClippings.CLI do
         ./kindle_clippings --input [input_file]
 
         Options:
-        --help          Show this help message.
-        --input [FILE]  use FILE as input file (mandatory)
-        --output [FILE] use FILE as output file
+        --help          Show this help message
+        --input [FILE]  Use FILE as input file (default is STDIN)
+        --output [FILE] Use FILE as output file (default is STDOUT)
 
         Description:
         Parses the Kindle clippings file and generates a nice looking HTML page from it.
