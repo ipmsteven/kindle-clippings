@@ -1,4 +1,4 @@
-# KindleClippings
+# KindleClippings [![Build Status](https://travis-ci.org/domnikl/kindle-clippings.svg?branch=master)](https://travis-ci.org/domnikl/kindle-clippings)
 
 Generates a beautiful report from a Kindle clipping file `My Clippings.txt`.
 
