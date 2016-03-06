@@ -28,12 +28,11 @@ defmodule KindleClippings.Parser do
   defp parse_body(["=========="|tail], body) do
     [Enum.join(Enum.reverse(body), "\n"), tail]
   end
+  defp parse_body([""|tail], body) do # don't add empty lines
+    parse_body(tail, body)
+  end
   defp parse_body([body_line|tail], body) do
-    if body_line == "" do
-      parse_body(tail, body)
-    else
-      parse_body(tail, [body_line|body])
-    end
+    parse_body(tail, [body_line|body])
   end
 
   defp parse_book(t) do
