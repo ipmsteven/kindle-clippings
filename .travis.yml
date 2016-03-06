@@ -5,4 +5,4 @@ elixir:
 script:
 - mix test
 - mix coveralls.detail
-- mix.credo
+- mix credo
