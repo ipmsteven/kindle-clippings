@@ -1,4 +1,8 @@
 defmodule KindleClippings.Parser do
+  @moduledoc """
+    Parser for the Kindle clipping text file format
+  """
+
   def parse(content) do
     content
       |> String.split("\n")
@@ -25,10 +29,10 @@ defmodule KindleClippings.Parser do
     [Enum.join(Enum.reverse(body), "\n"), tail]
   end
   defp parse_body([body_line|tail], body) do
-    unless body_line == "" do
-      parse_body(tail, [body_line|body])
-    else
+    if body_line == "" do
       parse_body(tail, body)
+    else
+      parse_body(tail, [body_line|body])
     end
   end
 

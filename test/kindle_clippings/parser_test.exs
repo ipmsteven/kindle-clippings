@@ -28,7 +28,8 @@ Nineteen Eighty-Four (Penguin Classics) (George Orwell)
 
 WAR IS PEACE IS SLAVERY IS IGNORANCE IS BLISS!\"
 stood on that wall.
-=========="
+==========
+"
 
     parsed = KindleClippings.Parser.parse(content)
     assert parsed == [%KindleClippings{

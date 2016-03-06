@@ -1,6 +1,14 @@
 # KindleClippings
 
-Generates a beautiful report from Kindle clipping files.
+Generates a beautiful report from a Kindle clipping file `My Clippings.txt`.
+
+## Installation
+
+```
+git clone https://github.com/domnikl/kindle-clippings.git
+cd kindle-clippings
+mix escript.build
+```
 
 ## Usage
 

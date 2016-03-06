@@ -8,7 +8,10 @@ defmodule KindleClippings.Mixfile do
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
      deps: deps,
-     escript: [main_module: KindleClippings]]
+     escript: [main_module: KindleClippings.CLI],
+     test_coverage: [tool: ExCoveralls],
+     preferred_cli_env: ["coveralls": :test, "coveralls.html": :test, "coveralls.detail": :test, "coveralls.post": :test]
+   ]
   end
 
   # Configuration for the OTP application
@@ -28,6 +31,9 @@ defmodule KindleClippings.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [
+      {:credo, "~> 0.3.5", only: [:test, :dev]},
+      {:excoveralls, "~> 0.4", only: :test}
+    ]
   end
 end
