@@ -8,13 +8,19 @@ defmodule KindleClippings.CLI do
   end
 
   def parse_args(args) do
-    case OptionParser.parse(args) do
-      {[input: input], _, _} -> [input, :stdout]
-      {[output: output], _, _} -> [:stdin, output]
-      {[input: input, output: output], _, _} -> [input, output]
-      {[output: output, input: input], _, _} -> [input, output]
-      {[], _, _} -> [:stdin, :stdout]
-      _ -> :help
+    case OptionParser.parse(args, strict: [input: :string, output: :string, help: :boolean]) do
+       {opts, [], []} -> opts |> parse_opts
+       _ -> :help
+    end
+  end
+
+  defp parse_opts(opts) do
+    cond do
+      Keyword.has_key?(opts, :help) -> :help
+      Keyword.has_key?(opts, :input) && Keyword.has_key?(opts, :output) -> [opts[:input], opts[:output]]
+      Keyword.has_key?(opts, :input) -> [opts[:input], :stdout]
+      Keyword.has_key?(opts, :output) -> [:stdin, opts[:output]]
+      true -> [:stdin, :stdout]
     end
   end
 
