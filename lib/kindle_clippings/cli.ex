@@ -43,16 +43,10 @@ defmodule KindleClippings.CLI do
       """
   end
 
-  defp get_input(:stdin) do
-    IO.read(:stdio, :all)
-  end
-  defp get_input(file) do
-    File.read!(file)
-  end
+  defp get_input(:stdin), do: IO.read(:stdio, :all)
+  defp get_input(file), do: File.read!(file)
 
-  defp write_output(content, :stdout) do
-    IO.puts content
-  end
+  defp write_output(content, :stdout), do: IO.puts content
   defp write_output(content, file) do
     File.write!(file, content)
 
