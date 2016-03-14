@@ -4,19 +4,19 @@ defmodule KindleClippings.CLITest do
   import ExUnit.CaptureIO
 
   test "parse_args returns stdin and stdout if no args were given" do
-    assert [:stdin, :stdout] == KindleClippings.CLI.parse_args([])
+    assert {:stdin, :stdout} == KindleClippings.CLI.parse_args([])
   end
 
   test "parse_args returns input file name if given" do
-    assert ["/tmp/foo.bar", :stdout] == KindleClippings.CLI.parse_args(["--input", "/tmp/foo.bar"])
+    assert {"/tmp/foo.bar", :stdout} == KindleClippings.CLI.parse_args(["--input", "/tmp/foo.bar"])
   end
 
   test "parse_args returns output file name if given" do
-    assert [:stdin, "/tmp/foo.bar"] == KindleClippings.CLI.parse_args(["--output", "/tmp/foo.bar"])
+    assert {:stdin, "/tmp/foo.bar"} == KindleClippings.CLI.parse_args(["--output", "/tmp/foo.bar"])
   end
 
   test "parse_args returns input and output file name if given" do
-    assert ["/tmp/in", "/tmp/out"] == KindleClippings.CLI.parse_args(["--output", "/tmp/out", "--input", "/tmp/in"])
+    assert {"/tmp/in", "/tmp/out"} == KindleClippings.CLI.parse_args(["--output", "/tmp/out", "--input", "/tmp/in"])
   end
 
   test "parse_args returns help if unknown switch was used" do

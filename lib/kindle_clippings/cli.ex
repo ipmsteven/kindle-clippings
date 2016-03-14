@@ -17,14 +17,14 @@ defmodule KindleClippings.CLI do
   defp parse_opts(opts) do
     cond do
       Keyword.has_key?(opts, :help) -> :help
-      Keyword.has_key?(opts, :input) && Keyword.has_key?(opts, :output) -> [opts[:input], opts[:output]]
-      Keyword.has_key?(opts, :input) -> [opts[:input], :stdout]
-      Keyword.has_key?(opts, :output) -> [:stdin, opts[:output]]
-      true -> [:stdin, :stdout]
+      Keyword.has_key?(opts, :input) && Keyword.has_key?(opts, :output) -> {opts[:input], opts[:output]}
+      Keyword.has_key?(opts, :input) -> {opts[:input], :stdout}
+      Keyword.has_key?(opts, :output) -> {:stdin, opts[:output]}
+      true -> {:stdin, :stdout}
     end
   end
 
-  defp do_process([input, output]) do
+  defp do_process({input, output}) do
     clippings = input
       |> get_input()
       |> KindleClippings.Parser.parse()
@@ -36,7 +36,7 @@ defmodule KindleClippings.CLI do
   defp do_process(:help) do
     IO.puts """
        Usage:
-        ./kindle_clippings --input [input_file]
+        ./kindle_clippings
 
         Options:
         --help          Show this help message
