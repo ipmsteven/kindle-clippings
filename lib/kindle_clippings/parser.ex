@@ -3,6 +3,9 @@ defmodule KindleClippings.Parser do
     Parser for the Kindle clipping text file format
   """
 
+  @doc """
+  Parses the string `content` and returns a list of `KindleClippings`
+  """
   def parse(content) do
     content
       |> String.split("\n")

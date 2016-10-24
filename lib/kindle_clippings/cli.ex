@@ -3,10 +3,20 @@ defmodule KindleClippings.CLI do
     CLI parsing and main entry point of the CLI tool
   """
 
+  @doc """
+  main function to parse CLI args and process input files
+  """
   def main(args) do
     args |> parse_args |> do_process
   end
 
+  @doc """
+  parses CLI arguments and returns a list of :input and :output.
+
+  Values may be
+  * a list of `[stream, stream]` for input and output
+  * a single `:help` to return the help message otherwise
+  """
   def parse_args(args) do
     case OptionParser.parse(args, strict: [input: :string, output: :string, help: :boolean]) do
        {opts, [], []} -> opts |> parse_opts

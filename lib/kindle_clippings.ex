@@ -1,6 +1,6 @@
 defmodule KindleClippings do
   @moduledoc """
-    defstruct for clippings
+    a struct for clippings
   """
 
   defstruct [book: nil, author: nil, created: nil, body: nil]
