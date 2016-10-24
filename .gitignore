@@ -5,3 +5,5 @@ erl_crash.dump
 *.ez
 /kindle_clippings
 .DS_Store
+/doc/
+

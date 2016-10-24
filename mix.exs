@@ -10,7 +10,10 @@ defmodule KindleClippings.Mixfile do
      deps: deps,
      escript: [main_module: KindleClippings.CLI],
      test_coverage: [tool: ExCoveralls],
-     preferred_cli_env: ["coveralls": :test, "coveralls.html": :test, "coveralls.detail": :test, "coveralls.post": :test]
+     preferred_cli_env: ["coveralls": :test, "coveralls.html": :test, "coveralls.detail": :test, "coveralls.post": :test],
+     docs: [main: "KindleClippings", # The main page in the docs
+          #logo: "path/to/logo.png",
+          extras: ["README.md"]]
    ]
   end
 
@@ -33,7 +36,8 @@ defmodule KindleClippings.Mixfile do
   defp deps do
     [
       {:credo, "~> 0.3.5", only: [:test, :dev]},
-      {:excoveralls, "~> 0.4", only: :test}
+      {:excoveralls, "~> 0.4", only: :test},
+      {:ex_doc, "~> 0.14", only: :dev}
     ]
   end
 end
