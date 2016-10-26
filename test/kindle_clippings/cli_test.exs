@@ -1,5 +1,6 @@
 defmodule KindleClippings.CLITest do
   use ExUnit.Case
+  doctest KindleClippings.CLI
 
   import ExUnit.CaptureIO
 

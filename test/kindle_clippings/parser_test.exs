@@ -1,5 +1,6 @@
 defmodule KindleClippings.ParserTest do
   use ExUnit.Case
+  doctest KindleClippings.Parser
 
   test "can parse single line" do
     content = "Kindle User's Guide, 2nd Ed. (Amazon)

@@ -11,11 +11,13 @@ defmodule KindleClippings.CLI do
   end
 
   @doc """
-  parses CLI arguments and returns a list of :input and :output.
+  parses CLI arguments and returns a list of :input and :output or a single :help instead
 
-  Values may be
-  * a list of `[stream, stream]` for input and output
-  * a single `:help` to return the help message otherwise
+      iex> KindleClippings.CLI.parse_args(["--help"])
+      :help
+
+      iex> KindleClippings.CLI.parse_args([])
+      {:stdin, :stdout}
   """
   def parse_args(args) do
     case OptionParser.parse(args, strict: [input: :string, output: :string, help: :boolean]) do
